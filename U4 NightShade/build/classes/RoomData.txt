@@ -1,0 +1,48 @@
+5 bedroom In Denny's bedroom
+6 0 0 0 0 0
+6 closet In Denny's stuffy closet
+0 5 0 0 0 0
+8 forest In a mysterious magical forest 
+11 0 0 9 0 0
+9 forest In a mysterious magical forest 
+10 0 8 0 0 0
+10 forest In a mysterious magical forest
+ 0 9 11 0 0 0
+11 forest In a mysterious magical forest 
+0 8 0 10 0 0
+12 pond By a pond rippling in a breeze 
+15 0 0 0 0 0
+13 small room In a small room 
+0 10 0 0 0 0
+14 swamp In a dangerous-looking swamp
+ 0 11 15 0 0 0
+15 road On a narrow  dirt road
+ 0 12 0 14 0 0
+16 hut In a cozy and warm hut
+ 0 15 0 0 0 0
+17 mountainside By a rocky mountainside
+ 0 0 0 0 0 0
+18 cave In a dark dripping cave
+ 0 0 0 17 0 0
+19 stone room In a dank  stone room
+ 0 0 22 18 0 0
+21 stone room In a dank stone room
+ 0 0 0 18 0 0
+22 mountainside By a rocky mountainside
+ 24 25 0 19 0 23
+23 valley In a valley filled flowers 
+26 27 0 0 22 0
+24 trail On a dusty well-used trail 
+0 22 0 0 0 26
+25 trail On a dusty well-used trail 
+22 30 0 0 0 27
+26 valley In a valley filled with flowers 
+0 23 0 0 24 0
+27 valley In a valley filled with flowers
+ 23 0 0 0 25 0
+28 leafless tree In a old leafless tree
+ 0 0 0 0 0 11
+29 boat In a small boat 
+0 0 0 0 12 0
+30 trail On a dusty well-used trail 
+25 0 0 0 0 0
